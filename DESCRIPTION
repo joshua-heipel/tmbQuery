@@ -1,4 +1,4 @@
-Package: tmbSearch
+Package: tmbQuery
 Type: Package
 Title: Search functions for Tambora.org
 Version: 0.1.0
